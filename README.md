@@ -1,5 +1,5 @@
 # Snake-Game-using-GAMEBASE
 
-Concluido | ❌
+Concluido | ❌\n
 Otimizado | ❌
 Interface Gráfica | ❌
